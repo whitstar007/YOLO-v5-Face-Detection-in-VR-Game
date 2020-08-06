@@ -7,3 +7,4 @@ code：VRFD
 If you want to use VRGFD dataset, please follow the following two points:
 （1）Commercial prohibition；（2）Only for academic research.
 If you have any questions, free to ask.
+emial:1147436319@qq.com
